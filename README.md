@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C6B94&height=160&section=header&text=Savio%20Nascimento 🚀%20Dev%20FullStack%20Jr&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+
 
 <img align="left" alt="Savio-pic" height="250" style="border-radius:50px;" src="https://user-images.githubusercontent.com/29306697/207935913-3fdaa586-278f-4137-8b18-66a83c63c2bb.jpg">
 
