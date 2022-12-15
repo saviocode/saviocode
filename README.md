@@ -1,4 +1,4 @@
-
+# Hi, I'm Savio 👋 I'm a 🚀 FullStack Jr Developer🚀
 
 <img align="left" alt="Savio-pic" height="250" style="border-radius:50px;" src="https://user-images.githubusercontent.com/29306697/207935913-3fdaa586-278f-4137-8b18-66a83c63c2bb.jpg">
 
@@ -14,7 +14,6 @@
 - Curso Programação pela FASAM <br>
 - Um pézinho maior no Back-End  <br>
 - Além de tecnologia também adoro animes, mangás e HQs <br>
-- Amo minha familia <br>
 - Atualmente estudando testes e estrutura de dados <br>
 </div>
   
