@@ -1,4 +1,4 @@
-# Hi, I'm Savio 👋 I'm a 🚀 FullStack Jr Developer🚀
+# Hi, I'm Savio 👋 I'm a 🚀 FullStack Developer🚀
 
 <img align="left" alt="Savio-pic" height="250" style="border-radius:50px;" src="https://user-images.githubusercontent.com/29306697/207935913-3fdaa586-278f-4137-8b18-66a83c63c2bb.jpg">
 
@@ -26,12 +26,13 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/css3/1C6B94" /> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/html5/1C6B94"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/react/1C6B94"/>         
+    <img height="40" width="40" src="https://cdn.simpleicons.org/react/1C6B94"/>  
+    <img height="40" width="40" src="https://cdn.simpleicons.org/angular/1C6B94"/>  
   </p>
   
   <h3 align="center">Back End</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/1C6B94"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/express/1C6B94"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/1C6B94"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/prisma/1C6B94"/> 
