@@ -13,8 +13,6 @@
 - Curso Desenvolvimento de sistemas pelo Senai Fastesg <br>
 - Curso Programação pela FASAM <br>
 - Um pézinho maior no Back-End  <br>
-- Além de tecnologia também adoro animes, mangás e HQs <br>
-- Atualmente estudando testes e estrutura de dados <br>
 </div>
   
 ***************
