@@ -7,7 +7,6 @@
 
 
 <div>
-- Atualmente estou procurando uma oportunidade como Dev<br>
 - Me aperfeiçoando cada dia mais com a programação <br>
 - Curso Desenvolvedor FullStack pelo bootcamp da Digital House e Rocketseat <br>
 - Curso Desenvolvimento de sistemas pelo Senai Fastesg <br>
