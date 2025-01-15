@@ -15,14 +15,12 @@
   
 ***************
 
-
 <h2 align="center">Linguagens e Ferramentas</h2>
   <h3 align="center">Front End</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/css3/1C6B94" /> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/html5/1C6B94"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/react/1C6B94"/>  
     <img height="40" width="40" src="https://cdn.simpleicons.org/angular/1C6B94"/>  
   </p>
   
@@ -36,7 +34,6 @@
   <h3 align="center">Banco de Dados</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/oracle/1C6B94"/>    
     <img height="40" width="40" src="https://cdn.simpleicons.org/mysql/1C6B94"/> 
   </p>
   
