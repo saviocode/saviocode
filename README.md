@@ -15,7 +15,7 @@
   
 ***************
 
-<h2 align="center">Linguagens e Ferramentas</h2>
+<h2 align="center"> Linguagens e Ferramentas </h2>
   <h3 align="center">Front End</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/css3/1C6B94" /> 
@@ -40,7 +40,6 @@
   <h3 align="center">Ferramentas</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/jira/1C6B94"/>    
-    <img height="40" width="40" src="https://cdn.simpleicons.org/intellij/1C6B94"/>    
     <img height="40" width="40" src="https://cdn.simpleicons.org/github/1C6B94"/> 
   </p>
 
