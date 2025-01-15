@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FA9A&center=true&vCenter=true&width=500&lines=Programmers+can+create+new+World+in+code)](https://git.io/typing-svg)
 
 
-
 <div>
 - Me aperfeiçoando cada dia mais com a programação <br>
 - Curso Desenvolvedor FullStack pelo bootcamp da Digital House e Rocketseat <br>
@@ -29,11 +28,9 @@
   
   <h3 align="center">Back End</h3>
   <p align="center">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/java/1C6B94"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/express/1C6B94"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/prisma/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/jest/1C6B94"/>           
   </p>
   
   <h3 align="center">Banco de Dados</h3>
@@ -45,9 +42,8 @@
   
   <h3 align="center">Ferramentas</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/trello/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio/1C6B94"/>    
-    <img height="40" width="40" src="https://cdn.simpleicons.org/insomnia/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/jira/1C6B94"/>    
+    <img height="40" width="40" src="https://cdn.simpleicons.org/intellij/1C6B94"/>    
     <img height="40" width="40" src="https://cdn.simpleicons.org/github/1C6B94"/> 
   </p>
 
