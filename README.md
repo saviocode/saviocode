@@ -4,7 +4,7 @@
 
 # [Savio Nascimento]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/savio-nascimento-gomes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[SavioNascimento]-blue?logo=linkedin)](https://www.linkedin.com/in/savio-nascimento-gomes/)
 
 ## 👋 Olá!
 
