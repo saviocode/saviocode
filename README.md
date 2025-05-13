@@ -1,39 +1,58 @@
 <div align="center">
-  <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-# [Savio Nascimento]
+###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[SavioNascimento]-blue?logo=linkedin)](https://www.linkedin.com/in/savio-nascimento-gomes/)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
 
-## 👋 Olá!
+###
 
-Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
+<h1 align="center">Olá, eu sou o Savio Nascimento! 👋</h1>
 
-## 🚀 Habilidades Técnicas
+###
 
-- Linguagens de Programação: 
+<h3 align="left">👩‍💻  About Me</h3>
 
-    [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-- Frameworks e Bibliotecas: 
+###
 
-    [![My Skills](https://skillicons.dev/icons?i=spring,angular)](https://skillicons.dev)
-- Dados: 
+<p align="left">🔭 Atualmente, trabalho como **Desenvolvedor Java** em projetos de microsserviços e orquestração de tarefas assíncronas.  <br>🌱 Apaixonado por **Spring Boot**, **Kafka**, **Redis** e **Docker**, sempre buscando escalabilidade e resiliência.  <br>💻 Também tenho experiência sólida em **Angular**, **OAuth 2.0** e **APIs RESTful** com front-end em TypeScript.  <br>☁️ Amante de **cloud** (AWS, Azure e Google Cloud), onde costumo implantar soluções em contêineres e pipelines CI/CD.  <br>🔍 Gosto de aplicar boas práticas: **SOLID**, **Clean Code**, **Testes Unitários (JUnit/Mockito)** e **Code Review**.  <br>📚 Nos tempos livres, estudo padrões de arquitetura distribuída, programação reativa e me divirto criando projetos de automação.  <br>🤝 Vamos colaborar? Me mande uma mensagem ou faça uma pull request!</p>
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgresql)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
+###
 
-    [![My Skills](https://skillicons.dev/icons?i=git,eclipse,docker)](https://skillicons.dev)
-- Desenvolvimento Web:
+<h3 align="left">🛠 Language and tools</h3>
 
-    [![My Skills](https://skillicons.dev/icons?i=javascript,html,css)](https://skillicons.dev)
+###
 
-## 🏆 Projetos Destacados
-
-- [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição breve do projeto e suas principais características.
-- [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma descrição breve do projeto e suas principais características.
-- [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.
-
-
-Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
+</div>
