@@ -25,7 +25,7 @@
 
 ###
 
-<h1 align="center">Olá, eu sou o Savio Nascimento! 👋</h1>
+<h1 align="center">Savio Nascimento! 👋</h1>
 
 ###
 
